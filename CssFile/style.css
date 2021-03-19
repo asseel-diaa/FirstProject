@@ -1,0 +1,152 @@
+body {
+    background-image: url("imgt2.png");
+    background-repeat: repeat;
+    text-align: center;
+    color: black
+     }
+head
+{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+title 
+{
+   
+    text-align: center;
+    color: rgb(10, 10, 10);
+}
+
+p {
+    text-align:center;
+    font-weight: bolder;
+    font-size:large;
+    color:rgb(15, 15, 15)
+}
+
+p {
+   text-align: center;
+   color: black;
+   font-family: bold
+   }
+   
+
+     li,ul
+   {
+    text-align: right;
+    font-size:large;
+    color: rgb(12, 12, 12)
+     }
+     
+     .oneclass
+     {
+        border: 5px outset lightblue;
+        width: 100%;
+         background-color:gold;
+         font-weight: bolder;
+         font-size:large;
+         align-items: center;
+     }
+     .twoclass
+     {
+        border: 5px outset  lightblue;
+        width: 100%;
+         font-weight: bolder;
+         font-size:large;
+         text-align: right;
+         background-color: rgb(192, 37, 115);
+         color: ivory;
+     }
+
+
+     .threeclass
+     {
+         float: right;
+         margin-top: 20px; 
+         margin-bottom: 20px;
+         direction: rtl;
+         border: 5px outset  lightblue;
+         width: 25%;
+         height: 25%;
+         font-weight: bolder;
+         font-size:large;
+         background-color: rgb(192, 37, 115);
+         color: gold;
+     }
+
+     .fourclass
+     {
+         margin-top: 20%; 
+         direction: rtl;
+         border: 5px outset  lightblue;
+         width: 50%;
+         height: 25%;
+         font-weight: bolder;
+         font-size:large;
+         background-color: rgb(192, 37, 115);
+         color: gold;
+     }
+
+     .fiveclass
+     {
+         margin-top: 2%; 
+         margin-bottom: 20px;
+         direction: rtl;
+         border: 5px outset  lightblue;
+         width: 75%;
+         height: 25%;
+         font-weight: bolder;
+         font-size:large;
+         background-color: rgb(192, 37, 115);
+         color: gold;
+     }
+
+     .sixclass
+     {
+         margin-top: 20px; 
+         margin-bottom: 20px;
+         direction: rtl;
+         border: 5px outset  lightblue;
+         width: 100%;
+         height: 25%;
+         font-weight: bolder;
+         font-size:large;
+         background-color: rgb(192, 37, 115);
+         color: gold;
+     }
+
+
+
+     .sevenclass
+     {
+        margin-bottom: 10%;
+        float: right;
+        border: 5px outset  lightblue;
+        font-weight: bolder;
+        font-size:large;
+      }
+     .eightclass
+     {
+        margin-bottom: 10%;
+        float: left;
+        border: 5px outset  lightblue;
+        font-weight: bolder;
+        font-size:large;
+     }
+
+     .nineclass
+     {
+        margin-top: 10%;
+        margin-bottom: 10%;
+        align-content: center;
+        font-weight: bolder;
+        font-size:large;
+     }
+
+     #myHeader {
+        border: 5px outset gold;
+        background-color: lightblue;
+        color: black;
+        padding: 40px;
+        text-align: center;
+      } 
+
